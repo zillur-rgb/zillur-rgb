@@ -27,7 +27,7 @@ Over the last year I was able to learn most of the stuffs that are necessary to 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
 ### 💬 Contact Me
-[![Gmail](https://img.shields.io/badge/-sebastian.prestele@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zillurdeu@gmail.com)
+[![Gmail](https://img.shields.io/badge/-zillurdeu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zillurdeu@gmail.com)
 
 <!--
 **zillur-rgb/zillur-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
