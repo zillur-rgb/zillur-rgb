@@ -1,7 +1,7 @@
 ## Hello World! This is Zillur. :star2::star2::star2::star2::star2:
 ##### A Frontend Developer and User Interface Designer with the enthusiasm of being a Fullstack Developer :boom:
 
-I have been working as a freelance User Interface designer since 2017. After moving from my homecountry Bangladesh to Germany for persuing my masters, I find it interesting in coding and started learning code on March 2021 and as my bachelor is from Computer Science it did not took me  so long to learn programming and build things.
+I have been working as a freelance User Interface designer since 2017. After moving from my homecountry Bangladesh to Germany for persuing my masters, I find it interesting in coding and started learning code on March 2021 and as my bachelor is from Computer Science it did not take me  so long to learn programming and build things.
 
 
 Over the last year I was able to learn most of the stuffs that are necessary to make a complete web app including the popular JavaScript framework React. Besides I also know some Nosql database coding and Express.js. Currently I am still becoming familiar to React and also started learning Redux.
