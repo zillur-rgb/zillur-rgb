@@ -29,6 +29,11 @@ Over the last year I was able to learn most of the stuffs that are necessary to 
 ### 💬 Contact Me
 [![Gmail](https://img.shields.io/badge/-zillurdeu@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zillurdeu@gmail.com)
 
+### Github Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zillur-rgb&show_icons=true&locale=en&layout=compact" alt="zillur-rgb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zillur-rgb&" alt="zillur-rgb" /></p>
+
 <!--
 **zillur-rgb/zillur-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
