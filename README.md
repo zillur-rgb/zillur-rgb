@@ -1,10 +1,13 @@
 ## Hello World! This is Zillur. :star2::star2::star2::star2::star2:
 ##### A Frontend Developer and User Interface Designer with the enthusiasm of being a Fullstack Developer :boom:
 
-I have been working as a freelance User Interface designer since 2017. After moving from my homecountry Bangladesh to Germany for persuing my masters, I find it interesting in coding and started learning code on March 2021 and as my bachelor is from Computer Science it did not take me  so long to learn programming and build things.
+My name is MD Zillur Rahman and I am an ambitious Frontend Engineer based in Germany.
 
+My target is to build things following the latest trend and technologies. And definitely my other primary goal is to find solutions for the problems. Grasp for limitless learning brought me to web programming. Because I love exploring new things and in web development there is no end of learning. Currently, I am learning NextJS and also have a thirst for learning GraphQL and Redux.
 
-Over the last year I was able to learn most of the stuffs that are necessary to make a complete web app including the popular JavaScript framework React. Besides I also know some Nosql database coding and Express.js. Currently I am still becoming familiar with MERN Stack and also learning TypeScript and NextJs..
+Beside coding, I usually love to read the documentation of different things. I also like to listen to audio stories in my free time. Another thing I love to do is biking. I love to explore the city with my bike.
+
+Currently, I am looking for an opportunity as a frontend developer in Germany to utilize my specialties. I am a team player and self-motivated, always a grasp for learning new stack. I am flexible to relocate as well.
 
 
 ### 🛠 Tech Stack
