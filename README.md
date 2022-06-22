@@ -1,5 +1,5 @@
 ## Hello World! This is Zillur. :star2::star2::star2::star2::star2:
-##### A Frontend Developer and User Interface Designer with the enthusiasm of being a Fullstack Developer :boom:
+##### A nthusiastic web programming always up for learning new things! :boom:
 
 My name is MD Zillur Rahman and I am an ambitious Frontend Engineer based in Germany.
 
