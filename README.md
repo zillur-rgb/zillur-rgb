@@ -19,8 +19,8 @@ Currently, I am looking for an opportunity as a frontend developer in Germany to
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
-![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 
+![Nodejs](https://img.shields.io/badge/Node-js-brightgreen)
 ![Express.js](http://img.shields.io/badge/-Express-white?style=flat-square&logo=express)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
 
