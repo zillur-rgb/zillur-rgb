@@ -15,14 +15,13 @@ Currently, I am looking for an opportunity as a frontend developer in Germany to
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next](https://img.shields.io/badge/Next-js-lightgrey)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 ![Express.js](http://img.shields.io/badge/-Express-white?style=flat-square&logo=express)
-![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
