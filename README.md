@@ -1,9 +1,9 @@
 ## Hello World! This is Zillur. :star2::star2::star2::star2::star2:
-##### An enthusiastic web programming always up for learning new things! :boom:
+##### An enthusiastic web programmer specialized in Frontend! :boom:
 
-My name is MD Zillur Rahman and I am an ambitious Frontend Engineer based in Germany.
+My name is MD Zillur Rahman and I am an ambitious Web Engineer based in Germany.
 
-My target is to build things following the latest trend and technologies. And definitely my other primary goal is to find solutions for the problems. Grasp for limitless learning brought me to web programming. Because I love exploring new things and in web development there is no end of learning. Currently, I am learning NextJS and also have a thirst for learning GraphQL and Redux.
+Grasp for limitless learning brought me to web programming. Because I love exploring new things and in web development there is no end of learning. Currently, I am learning NestJS and also have a thirst for learning GraphQL.
 
 Beside coding, I usually love to read the documentation of different things. I also like to listen to audio stories in my free time. Another thing I love to do is biking. I love to explore the city with my bike.
 
