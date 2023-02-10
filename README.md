@@ -1,13 +1,11 @@
-## Hello World! This is Zillur. :star2::star2::star2::star2::star2:
-##### An enthusiastic web programmer specialized in Frontend! :boom:
+## Hello! This is Zillur. :star2::star2::star2::star2::star2:
+##### An enthusiastic typesafe web programmer! :boom:
 
-My name is MD Zillur Rahman and I am an ambitious Web Engineer based in Germany.
+My name is MD Zillur Rahman and I am an ambitious Web Engineer based on Germany.
 
 Grasp for limitless learning brought me to web programming. Because I love exploring new things and in web development there is no end of learning. Currently, I am learning NestJS and also have a thirst for learning GraphQL.
 
 Beside coding, I usually love to read the documentation of different things. I also like to listen to audio stories in my free time. Another thing I love to do is biking. I love to explore the city with my bike.
-
-Currently, I am looking for an opportunity as a frontend developer in Germany to utilize my specialties. I am a team player and self-motivated, always a grasp for learning new stack. I am flexible to relocate as well.
 
 
 ### 🛠 Tech Stack
@@ -16,6 +14,7 @@ Currently, I am looking for an opportunity as a frontend developer in Germany to
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/Next-js-lightgrey)
+![tRPC](https://img.shields.io/badge/t-RPC-blue)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
