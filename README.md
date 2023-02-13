@@ -1,5 +1,5 @@
 ## Hello! This is Zillur. :star2::star2::star2::star2::star2:
-##### An enthusiastic typesafe web programmer! :boom:
+##### Typesafe web programmer! :boom:
 
 My name is MD Zillur Rahman and I am an ambitious Web Engineer based on Germany.
 
