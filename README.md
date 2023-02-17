@@ -1,9 +1,9 @@
 ## Hello! This is Zillur. :star2::star2::star2::star2::star2:
-##### Typesafe web programmer! :boom:
+##### Typesafe web programmer!!!
 
 My name is MD Zillur Rahman and I am an ambitious Web Engineer based on Germany.
 
-Grasp for limitless learning brought me to web programming. Because I love exploring new things and in web development there is no end of learning. Currently, I am learning NestJS and also have a thirst for learning GraphQL.
+Grasps for limitless learning brought me to web programming. Because I love exploring new things and in web development there is no end of learning. Currently, I am learning NestJS and also have a thirst for learning GraphQL.
 
 Beside coding, I usually love to read the documentation of different things. I also like to listen to audio stories in my free time. Another thing I love to do is biking. I love to explore the city with my bike.
 
