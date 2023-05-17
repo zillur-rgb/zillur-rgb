@@ -3,9 +3,11 @@
 
 My name is MD Zillur Rahman and I am an ambitious Web Engineer based on Germany.
 
-Grasps for limitless learning brought me to web programming. Because I love exploring new things and in web development there is no end of learning. Currently, I am learning NestJS and also have a thirst for learning GraphQL.
+Grasps for limitless learning brought me to web programming. Because I love exploring new things and in web development there is no end of learning. Currently, I am learning GraphQL and exploring problem solving techniques.
 
 Beside coding, I usually love to read the documentation of different things. I also like to listen to audio stories in my free time. Another thing I love to do is biking. I love to explore the city with my bike.
+
+Currently, I am looking for an opportunity in Germany to utilize my skills and experiences. I am a team player and self-motivated, always a grasp for learning new stack. I am flexible to relocate or remote is also possible.
 
 
 ### 🛠 Tech Stack
