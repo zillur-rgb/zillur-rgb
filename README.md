@@ -1,13 +1,13 @@
 ## Hello! This is Zillur. :star2::star2::star2::star2::star2:
 ##### Typesafe web programmer!!!
 
-My name is MD Zillur Rahman and I am an ambitious Web Engineer based on Germany.
+Passionate and dedicated web developer with a thirst for knowledge and a drive for excellence. I'm MD Zillur Rahman, a determined Web Engineer based in Germany.
 
-Grasps for limitless learning brought me to web programming. Because I love exploring new things and in web development there is no end of learning. Currently, I am learning GraphQL and exploring problem solving techniques.
+My insatiable curiosity led me to the captivating world of web programming, where the possibilities for growth and exploration are boundless. Constantly seeking new challenges, I am currently expanding my expertise in Microservices and honing my problem-solving skills.
 
-Beside coding, I usually love to read the documentation of different things. I also like to listen to audio stories in my free time. Another thing I love to do is biking. I love to explore the city with my bike.
+Beyond coding, I find great joy in immersing myself in the documentation of diverse subjects. During my leisure time, I indulge in captivating audio stories and embark on thrilling biking adventures, exploring the hidden gems of the city.
 
-Currently, I am looking for an opportunity in Germany to utilize my skills and experiences. I am a team player and self-motivated, always a grasp for learning new stack. I am flexible to relocate or remote is also possible.
+Currently, I am actively seeking an opportunity in Germany to leverage my skills and experience. As a collaborative team player, I am self-motivated and consistently seek opportunities to master new technologies. I am open to relocation or remote positions, eager to make a meaningful impact wherever I go.
 
 
 ### 🛠 Tech Stack
